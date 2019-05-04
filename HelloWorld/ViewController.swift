@@ -12,9 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // 1 pullrebase 2  Do any additional setup after loading the view, typically from a nib.
+        // 1 pullrebase2  Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
 
