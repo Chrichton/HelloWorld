@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // 1 scond  try second merge  Do any additional setup after loading the view, typically from a nib.
+        // 2.2.2  Do any additional setup after loading the view, typically from a nib.
     }
 
 
